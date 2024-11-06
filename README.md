@@ -1,8 +1,7 @@
 # Welcome to my Github page!
 
-<p>
-<img src="images/Simple_Technology_LinkedIn_Banner.png" alt="my banner">
-</p>
+![LinkedIn Banner](https://github.com/user-attachments/assets/c1c62a5f-d4b9-4828-baf1-affb50821951)
+
 
 
 <body align="center">
@@ -37,6 +36,10 @@ I recently completed a data engineering bootcamp at Northcoders, where I gained 
 
 
 <h2>🤝 CONNECT WITH ME </h2>
- <a href="https://www.linkedin.com/in/andreabiro-/"> <img src="images/Linkedin-Logo.jpg"" alt="linkedIn" width="125px"></a>
+
+ <a href="https://www.linkedin.com/in/andreabiro-/">
+    <img src="https://github.com/user-attachments/assets/90adc7b7-65bc-4f7e-9ad7-a9f96119c05f" alt="LinkedIn-Logo" width="150">
+</a>
+                                                                                                                                                              
 
 </body>

@@ -38,7 +38,7 @@ I recently completed a data engineering bootcamp at Northcoders, where I gained 
 <h2>🤝 CONNECT WITH ME </h2>
 
  <a href="https://www.linkedin.com/in/andreabiro-/">
-    <img src="https://github.com/user-attachments/assets/90adc7b7-65bc-4f7e-9ad7-a9f96119c05f" alt="LinkedIn-Logo" width="150">
+    <img src="https://github.com/user-attachments/assets/90adc7b7-65bc-4f7e-9ad7-a9f96119c05f" alt="LinkedIn-Logo" width="115">
 </a>
                                                                                                                                                               
 

@@ -16,7 +16,7 @@ I recently completed a data engineering bootcamp at Northcoders, where I gained 
 
   <h4>💬 to deepen my backend knowledge </h4>
   <h4>💬 my SQL skills </h4>
-  <h4>💬 to get my AWS Solutions Architect - Associate certificated </h4>
+  <h4>💬 to get my AWS Solutions Architect - Associate certified </h4>
 
 <br>
 

@@ -16,7 +16,7 @@ I recently completed a data engineering bootcamp at Northcoders, where I gained 
 
   <h4>💬 to deepen my backend knowledge </h4>
   <h4>💬 my SQL skills </h4>
-  <h4>💬 to get my AWS Solutions Architect - Associate certified </h4>
+  <h4>💬 to get AWS Solutions Architect - Associate certified </h4>
 
 <br>
 
@@ -40,6 +40,7 @@ I recently completed a data engineering bootcamp at Northcoders, where I gained 
  <a href="https://www.linkedin.com/in/andreabiro-/">
     <img src="https://github.com/user-attachments/assets/90adc7b7-65bc-4f7e-9ad7-a9f96119c05f" alt="LinkedIn-Logo" width="115">
 </a>
-                                                                                                                                                              
-
+                                                                                                                                        
+<!-- stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndreaBirouk)](https://github.com/AndreaBirouk)-->
 </body>
